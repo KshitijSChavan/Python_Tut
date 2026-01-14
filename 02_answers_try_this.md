@@ -1,4 +1,4 @@
-# Answers: Lesson 02 - Arithmetic and Operations
+# Answers for Try This Section in 02 - Arithmetic and Operations
 
 ## Question 1
 Calculate spectral index: α = log(S₁/S₂) / log(ν₁/ν₂) with S₁=245.7, S₂=18.3, ν₁=144, ν₂=1400

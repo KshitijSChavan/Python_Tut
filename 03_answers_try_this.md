@@ -1,4 +1,4 @@
-# Answers: Lesson 03 - Strings and Operations
+# Answers for Try This Section in 03 - Strings and Operations
 
 ## Question 1
 Create a source ID like "LoTSS_DR2_12345" and extract just "12345" using slicing

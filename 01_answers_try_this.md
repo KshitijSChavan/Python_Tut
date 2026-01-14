@@ -1,4 +1,4 @@
-# Answers: Lesson 01 - Variables and Types
+# Answers for Try This Section in 01 - Variables and Types
 
 ## Question 1
 Create variables for RA (187.5), Dec (12.3), flux (245.7), and source name
